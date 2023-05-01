@@ -1,38 +1,70 @@
+@font-face {
+  font-family: BlizzardD;
+  src: url('./static/Blizzard\ D\ Regular.ttf');
+}
+
+html, body, #root {
+  height: 100%;
+}
+
 .App {
-  text-align: center;
+  position: relative;
+  height: 100%;
+  
+  scroll-behavior: smooth;
+  overflow: auto;
+  scroll-snap-type: y mandatory;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
-}
+.section {
+  height: 100%;
+  background-size:  cover;
+  scroll-snap-align: start;
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
-}
+  /* For background image */
+  background-image: linear-gradient(to right, #434343 0%, black 100%);
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
   display: flex;
-  flex-direction: column;
+  flex-direction: row;
+  /* gap: 5%; */
+
+  padding: 0 5%;
+}
+
+.intro {
+  display: flex;
   align-items: center;
   justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
 }
 
-.App-link {
-  color: #61dafb;
+.intro>h1 {
+  /* font-family: BlizzardD; */
+  font-size: 6em;
+  font-weight: 900;
+  
+
+  background: -webkit-linear-gradient(rgb(74, 174, 248), #d2d1d1);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.info {
+  display: grid;
+  grid-template-columns: 1fr 2fr;
+  
 }
+
+.info>.header>h2 {
+  font-size: 3em;
+
+  background: -webkit-linear-gradient(rgb(74, 174, 248), #d2d1d1);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+
+}
+
