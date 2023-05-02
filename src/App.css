@@ -41,7 +41,7 @@ html, body, #root {
   justify-content: center;
 }
 
-.intro>h1 {
+.intro>.wrapper>h1 {
   /* font-family: BlizzardD; */
   font-size: 6em;
   font-weight: 900;
@@ -79,4 +79,14 @@ html, body, #root {
 .text>ul>li {
   font-size: 2em;
   font-weight: 500;
+}
+
+.section-content {
+  opacity: 0;
+  transition: 1s;
+}
+
+.appear {
+  opacity: 1;
+  transition: 1s;
 }
