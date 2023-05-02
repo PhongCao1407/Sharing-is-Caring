@@ -68,3 +68,15 @@ html, body, #root {
 
 }
 
+.info>.text {
+  color: #d2d1d1;
+}
+
+.text>h3 {
+  font-size: 3em;
+}
+
+.text>ul>li {
+  font-size: 2em;
+  font-weight: 500;
+}
