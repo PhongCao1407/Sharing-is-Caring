@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/Sharing-is-Caring/static/css/main.e8e5a2e3.css",
-    "main.js": "/Sharing-is-Caring/static/js/main.4b4d4452.js",
+    "main.css": "/Sharing-is-Caring/static/css/main.379a30f3.css",
+    "main.js": "/Sharing-is-Caring/static/js/main.cb2e2248.js",
     "static/media/protest.png": "/Sharing-is-Caring/static/media/protest.6fa2cd94aeed18d577cd.png",
     "static/media/BlizzardLogo.png": "/Sharing-is-Caring/static/media/BlizzardLogo.57fcea1827059ce4ca06.png",
     "static/media/RavenLogo.png": "/Sharing-is-Caring/static/media/RavenLogo.71478d13fb7298f473cb.png",
     "static/media/ReedSmithLogo.png": "/Sharing-is-Caring/static/media/ReedSmithLogo.b01345d3ec1dbfd5ba12.png",
     "index.html": "/Sharing-is-Caring/index.html",
-    "main.e8e5a2e3.css.map": "/Sharing-is-Caring/static/css/main.e8e5a2e3.css.map",
-    "main.4b4d4452.js.map": "/Sharing-is-Caring/static/js/main.4b4d4452.js.map"
+    "main.379a30f3.css.map": "/Sharing-is-Caring/static/css/main.379a30f3.css.map",
+    "main.cb2e2248.js.map": "/Sharing-is-Caring/static/js/main.cb2e2248.js.map"
   },
   "entrypoints": [
-    "static/css/main.e8e5a2e3.css",
-    "static/js/main.4b4d4452.js"
+    "static/css/main.379a30f3.css",
+    "static/js/main.cb2e2248.js"
   ]
 }
