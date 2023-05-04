@@ -104,7 +104,7 @@ function App() {
 
         <div className="text section-content">
           <h3>
-          In response to the collectivization efforts by its workers, Blizzard employed illegal and unethical tactics and strategies to disrupt their efforts.
+            In response to the collectivization efforts by its workers, Blizzard employed illegal and unethical tactics and strategies to disrupt their efforts.
           </h3>
           <ul>
             <li>Withheld wage increases to Union Workers</li>
@@ -139,7 +139,26 @@ function App() {
 
       </div>
 
-    </div>
+      <div className="section info">
+        <div className="header section-content">
+          <h2>Work Cited</h2>
+        </div>
+
+
+        <div className="text work-cited section-content">
+          <a href="https://techcrunch.com/2022/10/03/activision-blizzard-illegally-withheld-raises-from-unionizing-workers-labor-board-finds/">https://techcrunch.com/2022/10/03/activision-blizzard-illegally-withheld-raises-from-unionizing-workers-labor-board-finds/</a>
+          <a href="https://www.npr.org/2023/01/05/1147241053/the-rise-of-video-game-unions">https://www.npr.org/2023/01/05/1147241053/the-rise-of-video-game-unions</a>
+          <a href="https://www.washingtonpost.com/video-games/2022/08/12/diablo-iv-blizzard-albany-union/">https://www.washingtonpost.com/video-games/2022/08/12/diablo-iv-blizzard-albany-union/</a>
+          <a href="https://kotaku.com/diablo-call-duty-activision-blizzard-union-busting-1849368397">https://kotaku.com/diablo-call-duty-activision-blizzard-union-busting-1849368397</a>
+          <a href="https://www.wired.com/story/activision-blizzard-unionization-albany/">https://www.wired.com/story/activision-blizzard-unionization-albany/</a>
+          <a href="https://gameworkersalliance.com/2022/11/03/november-2nd-2022-bargaining-session-update/">https://gameworkersalliance.com/2022/11/03/november-2nd-2022-bargaining-session-update/</a>
+
+        </div>
+
+
+      </div>
+
+    </div >
   );
 }
 
