@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/Sharing-Is-Caring/static/css/main.e8e5a2e3.css",
+    "main.js": "/Sharing-Is-Caring/static/js/main.3d82e9e4.js",
+    "static/media/protest.png": "/Sharing-Is-Caring/static/media/protest.6fa2cd94aeed18d577cd.png",
+    "static/media/BlizzardLogo.png": "/Sharing-Is-Caring/static/media/BlizzardLogo.57fcea1827059ce4ca06.png",
+    "static/media/RavenLogo.png": "/Sharing-Is-Caring/static/media/RavenLogo.71478d13fb7298f473cb.png",
+    "static/media/ReedSmithLogo.png": "/Sharing-Is-Caring/static/media/ReedSmithLogo.b01345d3ec1dbfd5ba12.png",
+    "index.html": "/Sharing-Is-Caring/index.html",
+    "main.e8e5a2e3.css.map": "/Sharing-Is-Caring/static/css/main.e8e5a2e3.css.map",
+    "main.3d82e9e4.js.map": "/Sharing-Is-Caring/static/js/main.3d82e9e4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e8e5a2e3.css",
+    "static/js/main.3d82e9e4.js"
+  ]
+}
